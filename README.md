@@ -1,5 +1,7 @@
 ### About me 
 
+I'm Aleš, a coding enthusiast based in Brno. I love building things with code and constantly strive to learn the newest web development technologies. TypeScript is my language of choice, and I incorporate it into the majority of my projects.
+
 <!--
 **Aleesssino/Aleesssino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
