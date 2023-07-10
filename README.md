@@ -1,4 +1,4 @@
-### About me 
+###⚡ About me 
 
 I'm Aleš, a coding enthusiast based in Brno. I love building things with code and constantly strive to learn the newest web development technologies. TypeScript is my language of choice, and I incorporate it into the majority of my projects.
 
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+### 🔨 Languages and Tools
