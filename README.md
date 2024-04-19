@@ -1,6 +1,10 @@
 ### ⚡ About me
+hi... My name is Aleš Gábor.
 
-TS lover, T3 enthusiast. Turning school C projects into digital gold. Let's code cool stuff
+I am curenttly working on my portfolio and my Neovim configuration.
+
+TS lover, Nextjs enthusiast;
+Let's code cool stuff;
 <!--
 **Aleesssino/Aleesssino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
