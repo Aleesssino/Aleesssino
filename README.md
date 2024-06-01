@@ -207,7 +207,7 @@ Here are some ideas to get you started:
  <div align="center"> 
    <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Aleesssino&show_icons=true&theme=rose_pine hide_rank"
+    srcset="https://github-readme-stats.vercel.app/api?username=Aleesssino&show_icons=true&theme=rose_pine"
     media="(prefers-color-scheme: dark)"
   />
   <source
