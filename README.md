@@ -218,7 +218,7 @@ Here are some ideas to get you started:
 
 </picture>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Aleesssino/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aleesssino)](https://github.com/Aleesssino/github-readme-stats)
 
  </div>
  
