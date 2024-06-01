@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 -->
 ---
 ### 🔨 Languages and Tools
-<div align-items="center">
-<p align="left">
+<div align="center">
+<p align="center">
   <a href="https://nextjs.org/">
     <img
       align="left"
