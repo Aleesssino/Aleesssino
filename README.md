@@ -215,9 +215,10 @@ Here are some ideas to get you started:
     media="(prefers-color-scheme: rose_pine), (prefers-color-scheme: rose_pine)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  
+<a href="https://github.com/httIsHere"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleesssino&layout=compact&theme=rose_pine&hide_border=true" /></a>
 
 </picture>
-<a href="https://github.com/httIsHere"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleesssino&layout=compact&theme=rose_pine&hide_border=true" /></a>
 
  </div>
  
