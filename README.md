@@ -204,7 +204,7 @@ Here are some ideas to get you started:
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=19&duration=2000&pause=1000&color=699AF7&center=true&random=false&width=440&height=45&lines=Full-stack+development;Modern+design;Power+of+Next.js+%E2%9A%A1%EF%B8%8F;Typescript+;C%2C+Lua+%26+Rust" alt="Typing SVG" /></a>
     </a>
   <br/>
- <div align="center"> 
+ <div class="half"> 
    <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Aleesssino&show_icons=true&theme=rose_pine&hide_rank=true"
@@ -217,7 +217,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 
 </picture>
-<a href="https://github.com/httIsHere"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httIsHere&layout=compact&theme=rose_pine&hide_border=true" /></a>
+<a href="https://github.com/httIsHere"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleesssino&layout=compact&theme=rose_pine&hide_border=true" /></a>
 
  </div>
  
