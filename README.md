@@ -198,22 +198,22 @@ Here are some ideas to get you started:
   </a>
 </p>
 <br />
-<detail>
+<details>
     <summary><b>📈 My GitHub Stats</b></summary>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=21&duration=2000&pause=1000&color=699AF7&center=true&random=false&width=440&height=45&lines=Full-stack+development;Modern+design;Power+of+Next.js+%E2%9A%A1%EF%B8%8F;Typescript+;C%2C+Lua+%26+Rust" alt="Typing SVG" /></a>
   <br/>
   # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aleesssino&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aleesssino&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleesssino&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![](https://github-readme-stats.vercel.app/api?username=Aleesssino&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Aleesssino&theme=monokai&hide_border=false)<br/>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleesssino&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aleesssino&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![](https://github-contributor-stats.vercel.app/api?username=Aleesssino&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aleesssino&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</detail>
+</details>
 
    
 
