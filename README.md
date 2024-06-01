@@ -34,6 +34,8 @@ Here are some ideas to get you started:
     />
   </a>
 
+  $~$
+
   <a href="https://www.typescriptlang.org/">
     <img
       align="center"
@@ -43,6 +45,8 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
     />
   </a>
+  
+$~~~~~~~~~~~$
 
   <a href="https://tailwindcss.com/">
     <img
