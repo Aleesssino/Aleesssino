@@ -26,17 +26,17 @@ Here are some ideas to get you started:
 <p align="left">
   <a href="https://nextjs.org/">
     <img
-      align="center"
+      align="left"
       alt="Next"
       width="40px"
-      style="padding: 150px"
+      style="padding: 15px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
     />
   </a>
 
   <a href="https://www.typescriptlang.org/">
     <img
-      align="center"
+      align="left"
       alt="Typescript"
       width="40px"
       style="padding-right: 10px"
