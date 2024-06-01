@@ -203,28 +203,10 @@ Here are some ideas to get you started:
   <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=19&duration=2000&pause=1000&color=699AF7&center=true&random=false&width=440&height=45&lines=Full-stack+development;Modern+design;Power+of+Next.js+%E2%9A%A1%EF%B8%8F;Typescript+;C%2C+Lua+%26+Rust" alt="Typing SVG" /></a>
     </a>
+  
   <br/>
   
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="margin-right: 10px;">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=Aleesssino&show_icons=true&theme=rose_pine&hide_rank=true"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=Aleesssino&show_icons=true"
-        media="(prefers-color-scheme: rose_pine), (prefers-color-scheme: rose_pine)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=Aleesssino&show_icons=true" />
-    </picture>
-  </div>
-  <div>
-    <a href="https://github.com/httIsHere">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleesssino&layout=compact&theme=rose_pine&hide_border=true" />
-    </a>
-  </div>
-</div>
+
 
 <div align="center">
   <a href="https://github.com/Aleesssino">
