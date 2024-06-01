@@ -29,7 +29,7 @@ Here are some ideas to get you started:
       align="center"
       alt="Next"
       width="40px"
-      style="padding-right: 10px"
+      style="padding-right: 40px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
     />
   </a>
