@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 ---
 ### 🔨 Languages and Tools
-
+<div align="center">
 <p align="left">
   <a href="https://nextjs.org/">
     <img
@@ -34,7 +34,6 @@ Here are some ideas to get you started:
     />
   </a>
 
-  <img width="100px"/>
 
   <a href="https://www.typescriptlang.org/">
     <img
@@ -48,7 +47,7 @@ Here are some ideas to get you started:
 
   <a href="https://tailwindcss.com/">
     <img
-      align="center"
+      align="left"
       alt="TailwindCSS"
       width="40px"
       style="padding-right: 10px"
@@ -58,7 +57,7 @@ Here are some ideas to get you started:
 
   <a href="https://www.prisma.io/">
     <img
-      align="center"
+      align="leftr"
       alt="Prisma"
       width="40px"
       style="padding-right: 10px"
@@ -68,7 +67,7 @@ Here are some ideas to get you started:
 
   <a href="https://vercel.com/">
     <img
-      align="center"
+      align="leftr"
       alt="vercel"
       width="40px"
       style="padding-right: 10px"
@@ -78,7 +77,7 @@ Here are some ideas to get you started:
 
   <a href="https://react.dev/learn/typescript">
     <img
-      align="center"
+      align="left"
       alt="React"
       width="40px"
       style="padding-right: 10px"
@@ -88,7 +87,7 @@ Here are some ideas to get you started:
 
   <a href="https://redis.io/">
     <img
-      align="center"
+      align="left"
       alt="Redis"
       width="40px"
       style="padding-right: 10px"
@@ -98,7 +97,7 @@ Here are some ideas to get you started:
 
   <a href="https://www.postgresql.org/">
     <img
-      align="center"
+      align="left"
       alt="postgresql"
       width="40px"
       style="padding-right: 10px"
@@ -108,7 +107,7 @@ Here are some ideas to get you started:
 
   <a href="https://threejs.org/">
     <img
-      align="center"
+      align="left"
       alt="Three.js"
       width="40px"
       style="padding-right: 10px"
@@ -118,7 +117,7 @@ Here are some ideas to get you started:
 
   <a href="https://pnpm.io/">
     <img
-      align="center"
+      align="left"
       alt="PNPM"
       width="40px"
       style="padding-right: 10px"
@@ -128,7 +127,7 @@ Here are some ideas to get you started:
 
   <a href="https://jestjs.io/">
     <img
-      align="center"
+      align="left"
       alt="Jest"
       width="40px"
       style="padding-right: 10px"
@@ -138,7 +137,7 @@ Here are some ideas to get you started:
 
   <a href="https://neovim.io/">
     <img
-      align="center"
+      align="left"
       alt="NeoVim"
       width="40px"
       style="padding-right: 10px"
@@ -148,7 +147,7 @@ Here are some ideas to get you started:
 
   <a href="https://www.gnu.org/software/gnu-c-manual/">
     <img
-      align="center"
+      align="left"
       alt="C"
       width="40px"
       style="padding-right: 10px"
@@ -158,7 +157,7 @@ Here are some ideas to get you started:
 
   <a href="https://lua.org/">
     <img
-      align="center"
+      align="left"
       alt="Lua"
       width="40px"
       style="padding-right: 10px"
@@ -168,7 +167,7 @@ Here are some ideas to get you started:
 
   <a href="https://www.rust-lang.org/">
     <img
-      align="center"
+      align="left"
       alt="Rust"
       width="40px"
       style="padding-right: 10px"
@@ -178,7 +177,7 @@ Here are some ideas to get you started:
 
   <a href="https://git-scm.com/">
     <img
-      align="center"
+      align="left"
       alt="Git"
       width="40px"
       style="padding-right: 10px"
@@ -188,7 +187,7 @@ Here are some ideas to get you started:
 
   <a href="https://www.fedoraproject.org/">
     <img
-      align="center"
+      align="left"
       alt="Fedora"
       width="40px"
       style="padding-right: 10px"
@@ -196,6 +195,7 @@ Here are some ideas to get you started:
     />
   </a>
 </p>
+</div>
 
 
 
