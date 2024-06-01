@@ -23,13 +23,14 @@ Here are some ideas to get you started:
 ---
 ### 🔨 Languages and Tools
 
-<p align="center">
+
+  <p align="center">
   <a href="https://nextjs.org/">
     <img
       align="center"
       alt="Next"
       width="40px"
-      style="margin-right: 15px;"
+      style="margin-right: 30px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
     />
   </a>
@@ -39,7 +40,7 @@ Here are some ideas to get you started:
       align="center"
       alt="Typescript"
       width="40px"
-      style="margin-right: 15px;"
+      style="margin-right: 30px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
     />
   </a>
@@ -49,7 +50,7 @@ Here are some ideas to get you started:
       align="center"
       alt="TailwindCSS"
       width="40px"
-      style="margin-right: 15px;"
+      style="margin-right: 30px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
     />
   </a>
@@ -59,7 +60,7 @@ Here are some ideas to get you started:
       align="center"
       alt="Prisma"
       width="40px"
-      style="margin-right: 15px;"
+      style="margin-right: 30px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
     />
   </a>
@@ -69,7 +70,7 @@ Here are some ideas to get you started:
       align="center"
       alt="vercel"
       width="40px"
-      style="margin-right: 15px;"
+      style="margin-right: 30px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg"
     />
   </a>
@@ -79,7 +80,7 @@ Here are some ideas to get you started:
       align="center"
       alt="React"
       width="40px"
-      style="margin-right: 15px;"
+      style="margin-right: 30px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
     />
   </a>
@@ -89,7 +90,7 @@ Here are some ideas to get you started:
       align="center"
       alt="Redis"
       width="40px"
-      style="margin-right: 15px;"
+      style="margin-right: 30px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
     />
   </a>
@@ -99,7 +100,7 @@ Here are some ideas to get you started:
       align="center"
       alt="postgresql"
       width="40px"
-      style="margin-right: 15px;"
+      style="margin-right: 30px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
     />
   </a>
@@ -109,7 +110,7 @@ Here are some ideas to get you started:
       align="center"
       alt="Three.js"
       width="40px"
-      style="margin-right: 15px;"
+      style="margin-right: 30px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg"
     />
   </a>
@@ -119,7 +120,7 @@ Here are some ideas to get you started:
       align="center"
       alt="PNPM"
       width="40px"
-      style="margin-right: 15px;"
+      style="margin-right: 30px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-plain-wordmark.svg"
     />
   </a>
@@ -129,7 +130,7 @@ Here are some ideas to get you started:
       align="center"
       alt="Jest"
       width="40px"
-      style="margin-right: 15px;"
+      style="margin-right: 30px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
     />
   </a>
@@ -139,7 +140,7 @@ Here are some ideas to get you started:
       align="center"
       alt="NeoVim"
       width="40px"
-      style="margin-right: 15px;"
+      style="margin-right: 30px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"
     />
   </a>
@@ -149,7 +150,7 @@ Here are some ideas to get you started:
       align="center"
       alt="C"
       width="40px"
-      style="margin-right: 15px;"
+      style="margin-right: 30px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"
     />
   </a>
@@ -159,7 +160,7 @@ Here are some ideas to get you started:
       align="center"
       alt="Lua"
       width="40px"
-      style="margin-right: 15px;"
+      style="margin-right: 30px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"
     />
   </a>
@@ -169,7 +170,7 @@ Here are some ideas to get you started:
       align="center"
       alt="Rust"
       width="40px"
-      style="margin-right: 15px;"
+      style="margin-right: 30px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
     />
   </a>
@@ -179,7 +180,7 @@ Here are some ideas to get you started:
       align="center"
       alt="Git"
       width="40px"
-      style="margin-right: 15px;"
+      style="margin-right: 30px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     />
   </a>
@@ -189,12 +190,13 @@ Here are some ideas to get you started:
       align="center"
       alt="Fedora"
       width="40px"
-      style="margin-right: 15px;"
+      style="margin-right: 30px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg"
     />
   </a>
 </p>
 
+   
 
   
 
