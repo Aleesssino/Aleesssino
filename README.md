@@ -207,12 +207,12 @@ Here are some ideas to get you started:
  <div align="center"> 
    <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Aleesssino&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Aleesssino&show_icons=true&theme=rose_pine hide_rank"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Aleesssino&show_icons=true"
-    media="(prefers-color-scheme: monokai), (prefers-color-scheme: monokai)"
+    media="(prefers-color-scheme: rose_pine), (prefers-color-scheme: rose_pine)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
