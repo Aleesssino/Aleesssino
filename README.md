@@ -1,13 +1,14 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=C8A0F7&center=true&random=false&width=440&height=45&separator=%3C&lines=console.log(%22hi%2C...%22);%3CI'm+Aleesssino" alt="Typing SVG" /></a>
 </p>
-hi... My name is Aleš Gábor.
 
-I am curenttly working on my portfolio and my Neovim configuration.
 
-TS lover, Nextjs enthusiast;
-
-Let's code cool stuff;
+* 🌍 I'm based in Brno
+* 💻 Specializing in **Next.js**
+* 🛠️ From concept to execution, I'm all about crafting projects.
+* 🔧 Open source enthusiast, believing in the power of collaboration.
+- * 💙 *TypeScript**
+  * 📚 Currently exploring Rust 
 <!--
 **Aleesssino/Aleesssino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
