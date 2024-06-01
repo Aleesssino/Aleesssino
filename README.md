@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
   <a href="https://www.prisma.io/">
     <img
-      align="leftr"
+      align="left"
       alt="Prisma"
       width="40px"
       style="padding-right: 10px"
