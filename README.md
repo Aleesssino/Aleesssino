@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     />
   </a>
 
-  <img width="100px"
+  <img width="100px"/>
 
   <a href="https://www.typescriptlang.org/">
     <img
