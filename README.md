@@ -206,16 +206,10 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?
   <br/>
   # 📊 GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api?username=Aleesssino&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Aleesssino&theme=monokai&hide_border=false)<br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleesssino&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-[![](https://github-contributor-stats.vercel.app/api?username=Aleesssino&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Aleesssino&icon=0&color=0)](https://visitcount.itsvg.in)
-
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aleesssino's Github Stats" src="https://Aleesssino-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aleesssino's Top Languages" src="https://Aleesssino-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
 </details>
 
    
