@@ -24,12 +24,13 @@ Here are some ideas to get you started:
 ### 🔨 Languages and Tools
 
 
-<p align="">
+<p align="center">
   <a href="https://nextjs.org/">
     <img
       align="center"
       alt="Next"
       width="40px"
+      tyle="padding-right:10px;
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
     />
   </a>
