@@ -45,8 +45,8 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
     />
   </a>
-  
-$~~~~~~~~~~~$
+
+  $~$
 
   <a href="https://tailwindcss.com/">
     <img
@@ -58,6 +58,8 @@ $~~~~~~~~~~~$
     />
   </a>
 
+  $~$
+
   <a href="https://www.prisma.io/">
     <img
       align="center"
@@ -67,6 +69,8 @@ $~~~~~~~~~~~$
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
     />
   </a>
+
+  $~$
 
   <a href="https://vercel.com/">
     <img
@@ -78,6 +82,8 @@ $~~~~~~~~~~~$
     />
   </a>
 
+  $~$
+
   <a href="https://react.dev/learn/typescript">
     <img
       align="center"
@@ -87,6 +93,8 @@ $~~~~~~~~~~~$
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
     />
   </a>
+
+  $~$
 
   <a href="https://redis.io/">
     <img
@@ -98,6 +106,8 @@ $~~~~~~~~~~~$
     />
   </a>
 
+  $~$
+
   <a href="https://www.postgresql.org/">
     <img
       align="center"
@@ -107,6 +117,8 @@ $~~~~~~~~~~~$
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
     />
   </a>
+
+  $~$
 
   <a href="https://threejs.org/">
     <img
@@ -118,6 +130,8 @@ $~~~~~~~~~~~$
     />
   </a>
 
+  $~$
+
   <a href="https://pnpm.io/">
     <img
       align="center"
@@ -127,6 +141,8 @@ $~~~~~~~~~~~$
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-plain-wordmark.svg"
     />
   </a>
+
+  $~$
 
   <a href="https://jestjs.io/">
     <img
@@ -138,6 +154,8 @@ $~~~~~~~~~~~$
     />
   </a>
 
+  $~$
+
   <a href="https://neovim.io/">
     <img
       align="center"
@@ -147,6 +165,8 @@ $~~~~~~~~~~~$
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"
     />
   </a>
+
+  $~$
 
   <a href="https://www.gnu.org/software/gnu-c-manual/">
     <img
@@ -158,6 +178,8 @@ $~~~~~~~~~~~$
     />
   </a>
 
+  $~$
+
   <a href="https://lua.org/">
     <img
       align="center"
@@ -167,6 +189,8 @@ $~~~~~~~~~~~$
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"
     />
   </a>
+
+  $~$
 
   <a href="https://www.rust-lang.org/">
     <img
@@ -178,6 +202,8 @@ $~~~~~~~~~~~$
     />
   </a>
 
+  $~$
+
   <a href="https://git-scm.com/">
     <img
       align="center"
@@ -187,6 +213,8 @@ $~~~~~~~~~~~$
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     />
   </a>
+
+  $~$
 
   <a href="https://www.fedoraproject.org/">
     <img
