@@ -217,7 +217,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 
 </picture>
-<a href="https://github.com/httIsHere"><img align="center" style="padding-bottom:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleesssino&layout=compact&theme=rose_pine&hide_border=true" /></a>
+<a href="https://github.com/httIsHere"><img align="center" style="margin-bottom:50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleesssino&layout=compact&theme=rose_pine&hide_border=true" /></a>
 
  </div>
  
