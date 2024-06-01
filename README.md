@@ -167,7 +167,7 @@ Here are some ideas to get you started:
 
   <a href="https://www.rust-lang.org/">
     <img
-      align="left"
+      align="center"
       alt="Rust"
       width="40px"
       style="padding-right: 10px"
@@ -177,7 +177,7 @@ Here are some ideas to get you started:
 
   <a href="https://git-scm.com/">
     <img
-      align="left"
+      align="center"
       alt="Git"
       width="40px"
       style="padding-right: 10px"
@@ -187,7 +187,7 @@ Here are some ideas to get you started:
 
   <a href="https://www.fedoraproject.org/">
     <img
-      align="left"
+      align="center"
       alt="Fedora"
       width="40px"
       style="padding-right: 10px"
