@@ -22,343 +22,178 @@ Here are some ideas to get you started:
 -->
 ---
 ### 🔨 Languages and Tools
-<div align="center">
-<p align="center">
+
+<p align="center" style="gap: 15px">
   <a href="https://nextjs.org/">
     <img
-      align="left"
+      align="center"
       alt="Next"
       width="40px"
-      style="padding: 15px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-    />
-  </a>
-
-
-  <a href="https://www.typescriptlang.org/">
-    <img
-      align="left"
-      alt="Typescript"
-      width="40px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-    />
-  </a>
-
-  <a href="https://tailwindcss.com/">
-    <img
-      align="left"
-      alt="TailwindCSS"
-      width="40px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-    />
-  </a>
-
-  <a href="https://www.prisma.io/">
-    <img
-      align="left"
-      alt="Prisma"
-      width="40px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
-    />
-  </a>
-
-  <a href="https://vercel.com/">
-    <img
-      align="left"
-      alt="vercel"
-      width="40px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg"
-    />
-  </a>
-
-  <a href="https://react.dev/learn/typescript">
-    <img
-      align="left"
-      alt="React"
-      width="40px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-    />
-  </a>
-
-  <a href="https://redis.io/">
-    <img
-      align="left"
-      alt="Redis"
-      width="40px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
-    />
-  </a>
-
-  <a href="https://www.postgresql.org/">
-    <img
-      align="left"
-      alt="postgresql"
-      width="40px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
-    />
-  </a>
-
-  <a href="https://threejs.org/">
-    <img
-      align="left"
-      alt="Three.js"
-      width="40px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg"
-    />
-  </a>
-
-  <a href="https://pnpm.io/">
-    <img
-      align="left"
-      alt="PNPM"
-      width="40px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-plain-wordmark.svg"
-    />
-  </a>
-
-  <a href="https://jestjs.io/">
-    <img
-      align="left"
-      alt="Jest"
-      width="40px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
-    />
-  </a>
-
-  <a href="https://neovim.io/">
-    <img
-      align="left"
-      alt="NeoVim"
-      width="40px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"
-    />
-  </a>
-
-  <a href="https://www.gnu.org/software/gnu-c-manual/">
-    <img
-      align="left"
-      alt="C"
-      width="40px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"
-    />
-  </a>
-
-  <a href="https://lua.org/">
-    <img
-      align="left"
-      alt="Lua"
-      width="40px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"
-    />
-  </a>
-<div align="center">
-  <a href="https://www.rust-lang.org/">
-    <img
-      alt="Rust"
-      width="40px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
-    />
-  </a>
-
-  <a href="https://git-scm.com/">
-    <img
-      alt="Git"
-      width="40px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-    />
-  </a>
-
-  <a href="https://www.fedoraproject.org/">
-    <img
-      <p align="center" style="gap: 15px">
-  <a href="https://nextjs.org/">
-    <img
-      align="left"
-      alt="Next"
-      width="40px"
-      style="padding-right: 10px"
+      style="padding: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
     />
   </a>
 
   <a href="https://www.typescriptlang.org/">
     <img
-      align="left"
+      align="center"
       alt="Typescript"
       width="40px"
-      style="padding-right: 10px"
+      style="padding: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
     />
   </a>
 
   <a href="https://tailwindcss.com/">
     <img
-      align="left"
+      align="center"
       alt="TailwindCSS"
       width="40px"
-      style="padding-right: 10px"
+      style="padding: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
     />
   </a>
 
   <a href="https://www.prisma.io/">
     <img
-      align="left"
+      align="center"
       alt="Prisma"
       width="40px"
-      style="padding-right: 10px"
+      style="padding: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
     />
   </a>
 
   <a href="https://vercel.com/">
     <img
-      align="left"
+      align="center"
       alt="vercel"
       width="40px"
-      style="padding-right: 10px"
+      style="padding: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg"
     />
   </a>
 
   <a href="https://react.dev/learn/typescript">
     <img
-      align="left"
+      align="center"
       alt="React"
       width="40px"
-      style="padding-right: 10px"
+      style="padding: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
     />
   </a>
 
   <a href="https://redis.io/">
     <img
-      align="left"
+      align="center"
       alt="Redis"
       width="40px"
-      style="padding-right: 10px"
+      style="padding: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
     />
   </a>
 
   <a href="https://www.postgresql.org/">
     <img
-      align="left"
+      align="center"
       alt="postgresql"
       width="40px"
-      style="padding-right: 10px"
+      style="padding: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
     />
   </a>
 
   <a href="https://threejs.org/">
     <img
-      align="left"
+      align="center"
       alt="Three.js"
       width="40px"
-      style="padding-right: 10px"
+      style="padding: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg"
     />
   </a>
 
   <a href="https://pnpm.io/">
     <img
-      align="left"
+      align="center"
       alt="PNPM"
       width="40px"
-      style="padding-right: 10px"
+      style="padding: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-plain-wordmark.svg"
     />
   </a>
 
   <a href="https://jestjs.io/">
     <img
-      align="left"
+      align="center"
       alt="Jest"
       width="40px"
-      style="padding-right: 10px"
+      style="padding: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
     />
   </a>
 
   <a href="https://neovim.io/">
     <img
-      align="left"
+      align="center"
       alt="NeoVim"
       width="40px"
-      style="padding-right: 10px"
+      style="padding: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"
     />
   </a>
 
   <a href="https://www.gnu.org/software/gnu-c-manual/">
     <img
-      align="left"
+      align="center"
       alt="C"
       width="40px"
-      style="padding-right: 10px"
+      style="padding: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"
     />
   </a>
 
   <a href="https://lua.org/">
     <img
-      align="left"
+      align="center"
       alt="Lua"
       width="40px"
-      style="padding-right: 10px"
+      style="padding: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"
     />
   </a>
 
   <a href="https://www.rust-lang.org/">
     <img
-      align="left"
+      align="center"
       alt="Rust"
       width="40px"
-      style="padding-right: 10px"
+      style="padding: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
     />
   </a>
 
   <a href="https://git-scm.com/">
     <img
-      align="left"
+      align="center"
       alt="Git"
       width="40px"
-      style="padding-right: 10px"
+      style="padding: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     />
   </a>
 
   <a href="https://www.fedoraproject.org/">
     <img
-      align="left"
+      align="center"
       alt="Fedora"
       width="40px"
-      style="padding-right: 10px"
+      style="padding: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg"
     />
   </a>
-
-  </div>
 </p>
-</div>
 
 
 
