@@ -164,7 +164,7 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"
     />
   </a>
-
+<p align="center">
   <a href="https://www.rust-lang.org/">
     <img
       align="center"
@@ -194,6 +194,7 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg"
     />
   </a>
+  </p>
 </p>
 </div>
 
