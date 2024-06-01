@@ -30,11 +30,16 @@ Here are some ideas to get you started:
       align="center"
       alt="Next"
       width="40px"
-      style="margin-right:15px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+   <img
+    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    width="15px"
+    height="1px"
+    alt=""
+  />
 
   <a href="https://www.typescriptlang.org/">
     <img
