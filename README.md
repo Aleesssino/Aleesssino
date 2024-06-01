@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://nextjs.org/">
     <img
-      align="center"
+      align="left"
       alt="Next"
       width="40px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
