@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     />
   </a>
 
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;
 
   <a href="https://www.typescriptlang.org/">
     <img
