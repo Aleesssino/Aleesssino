@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ---
 ### 🔨 Languages and Tools
 
-<p align="center">
+<p align="left">
   <a href="https://nextjs.org/">
     <img
       align="center"
