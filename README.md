@@ -203,7 +203,7 @@ Here are some ideas to get you started:
   <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&duration=2000&pause=1000&color=699AF7&center=true&random=false&width=440&height=45&lines=Full-stack+development;Modern+design;Power+of+Next.js+%E2%9A%A1%EF%B8%8F;Typescript+;C%2C+Lua+%26+Rust" alt="Typing SVG" /></a>
     </a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?"></a>a
   <br/>
   # 📊 GitHub Stats:
 
