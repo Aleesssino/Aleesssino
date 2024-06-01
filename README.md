@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 ### 🔨 Languages and Tools
 
 
-<p align="center">
+<p align="">
   <a href="https://nextjs.org/">
     <img
-      align="left"
+      align="center"
       alt="Next"
       width="40px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
