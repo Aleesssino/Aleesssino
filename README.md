@@ -43,8 +43,8 @@ Here are some ideas to get you started:
   />
 </a>
 
-<a href="https://tailwindcss.com/"
-  ><img
+<a href="https://tailwindcss.com/">
+<img
     align="center"
     alt="TailwindCSS"
     width="30px"
@@ -53,8 +53,8 @@ Here are some ideas to get you started:
   />
 </a>
 
-<a href="https://www.prisma.io/"
-  ><img
+<a href="https://www.prisma.io/">
+<img
     align="center"
     alt="Prisma"
     width="30px"
@@ -73,8 +73,8 @@ Here are some ideas to get you started:
   />
 </a>
 
-<a href="https://react.dev/learn/typescript"
-  ><img
+<a href="https://react.dev/learn/typescript">
+<img
     align="center"
     alt="React"
     width="30px"
@@ -173,8 +173,8 @@ Here are some ideas to get you started:
   />
 </a>
 
-<a href="https://git-scm.com/"
-  ><img
+<a href="https://git-scm.com/">
+<img
     align="center"
     alt="Git"
     width="30px"
