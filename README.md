@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ---
 ### 🔨 Languages and Tools
 
-<p align="center" style="gap: 15px">
+<p align="center">
   <a href="https://nextjs.org/">
     <img
       align="center"
@@ -33,8 +33,6 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
     />
   </a>
-
-  $~$
 
   <a href="https://www.typescriptlang.org/">
     <img
@@ -46,8 +44,6 @@ Here are some ideas to get you started:
     />
   </a>
 
-  $~$
-
   <a href="https://tailwindcss.com/">
     <img
       align="center"
@@ -57,8 +53,6 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
     />
   </a>
-
-  $~$
 
   <a href="https://www.prisma.io/">
     <img
@@ -70,8 +64,6 @@ Here are some ideas to get you started:
     />
   </a>
 
-  $~$
-
   <a href="https://vercel.com/">
     <img
       align="center"
@@ -81,8 +73,6 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg"
     />
   </a>
-
-  $~$
 
   <a href="https://react.dev/learn/typescript">
     <img
@@ -94,8 +84,6 @@ Here are some ideas to get you started:
     />
   </a>
 
-  $~$
-
   <a href="https://redis.io/">
     <img
       align="center"
@@ -105,8 +93,6 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
     />
   </a>
-
-  $~$
 
   <a href="https://www.postgresql.org/">
     <img
@@ -118,8 +104,6 @@ Here are some ideas to get you started:
     />
   </a>
 
-  $~$
-
   <a href="https://threejs.org/">
     <img
       align="center"
@@ -129,8 +113,6 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg"
     />
   </a>
-
-  $~$
 
   <a href="https://pnpm.io/">
     <img
@@ -142,8 +124,6 @@ Here are some ideas to get you started:
     />
   </a>
 
-  $~$
-
   <a href="https://jestjs.io/">
     <img
       align="center"
@@ -153,8 +133,6 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
     />
   </a>
-
-  $~$
 
   <a href="https://neovim.io/">
     <img
@@ -166,8 +144,6 @@ Here are some ideas to get you started:
     />
   </a>
 
-  $~$
-
   <a href="https://www.gnu.org/software/gnu-c-manual/">
     <img
       align="center"
@@ -177,8 +153,6 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"
     />
   </a>
-
-  $~$
 
   <a href="https://lua.org/">
     <img
@@ -190,8 +164,6 @@ Here are some ideas to get you started:
     />
   </a>
 
-  $~$
-
   <a href="https://www.rust-lang.org/">
     <img
       align="center"
@@ -202,8 +174,6 @@ Here are some ideas to get you started:
     />
   </a>
 
-  $~$
-
   <a href="https://git-scm.com/">
     <img
       align="center"
@@ -213,8 +183,6 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     />
   </a>
-
-  $~$
 
   <a href="https://www.fedoraproject.org/">
     <img
