@@ -215,9 +215,10 @@ Here are some ideas to get you started:
     media="(prefers-color-scheme: rose_pine), (prefers-color-scheme: rose_pine)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </picture>
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Aleesssino/github-readme-stats)
  </div>
  
   <br/>
