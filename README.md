@@ -49,7 +49,13 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+   <img
+    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    width="15px"
+    height="1px"
+    alt=""
+  />
 
   <a href="https://tailwindcss.com/">
     <img
@@ -59,8 +65,14 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+   <img
+    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    width="15px"
+    height="1px"
+    alt=""
+  />
+  
   <a href="https://www.prisma.io/">
     <img
       align="center"
@@ -69,7 +81,13 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+   <img
+    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    width="15px"
+    height="1px"
+    alt=""
+  />
 
   <a href="https://vercel.com/">
     <img
@@ -79,7 +97,13 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" 
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+   <img
+    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    width="15px"
+    height="1px"
+    alt=""
+  />
 
   <a href="https://react.dev/learn/typescript">
     <img
@@ -89,8 +113,14 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+ <img
+    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    width="15px"
+    height="1px"
+    alt=""
+  />
+  
   <a href="https://redis.io/">
     <img
       align="center"
@@ -99,7 +129,13 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+   <img
+    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    width="15px"
+    height="1px"
+    alt=""
+  />
 
   <a href="https://www.postgresql.org/">
     <img
@@ -109,7 +145,13 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+   <img
+    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    width="15px"
+    height="1px"
+    alt=""
+  />
 
   <a href="https://threejs.org/">
     <img
@@ -119,7 +161,13 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+   <img
+    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    width="15px"
+    height="1px"
+    alt=""
+  />
 
   <a href="https://pnpm.io/">
     <img
@@ -129,7 +177,13 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-plain-wordmark.svg"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+   <img
+    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    width="15px"
+    height="1px"
+    alt=""
+  />
 
   <a href="https://jestjs.io/">
     <img
@@ -139,7 +193,13 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+   <img
+    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    width="15px"
+    height="1px"
+    alt=""
+  />
 
   <a href="https://neovim.io/">
     <img
@@ -149,7 +209,13 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+   <img
+    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    width="15px"
+    height="1px"
+    alt=""
+  />
 
   <a href="https://www.gnu.org/software/gnu-c-manual/">
     <img
@@ -159,7 +225,13 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+   <img
+    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    width="15px"
+    height="1px"
+    alt=""
+  />
 
   <a href="https://lua.org/">
     <img
@@ -169,7 +241,13 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+   <img
+    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    width="15px"
+    height="1px"
+    alt=""
+  />
 
   <a href="https://www.rust-lang.org/">
     <img
@@ -179,7 +257,13 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+   <img
+    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    width="15px"
+    height="1px"
+    alt=""
+  />
 
   <a href="https://git-scm.com/">
     <img
@@ -189,7 +273,13 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+   <img
+    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    width="15px"
+    height="1px"
+    alt=""
+  />
 
   <a href="https://www.fedoraproject.org/">
     <img
