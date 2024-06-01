@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
   <a href="https://vercel.com/">
     <img
-      align="leftr"
+      align="left"
       alt="vercel"
       width="40px"
       style="padding-right: 10px"
