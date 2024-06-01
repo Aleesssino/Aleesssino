@@ -3,12 +3,12 @@
 </p>
 
 
-* 🌍 I'm based in Brno
+* 🌍 I'm based in **Brno**
 * 💻 Specializing in **Next.js**
 * 🛠️ From concept to execution, I'm all about crafting projects.
 * 🔧 Open source enthusiast, believing in the power of collaboration.
-- * 💙 *TypeScript**
-  * 📚 Currently exploring Rust 
+* 💙 **TypeScript**
+* 📚 Currently exploring Rust 
 <!--
 **Aleesssino/Aleesssino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
