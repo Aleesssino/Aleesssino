@@ -5,7 +5,7 @@
 
 * 🌍 I'm based in **Brno**
 * 💻 Specializing in **Next.js**
-* 🛠️ From concept to execution, I'm all about crafting projects.
+* 🛠️ Building cool shit with code.
 * 🔧 Open source enthusiast, believing in the power of collaboration.
 * 💙 **TypeScript**
 * 📚 Currently exploring Rust 
