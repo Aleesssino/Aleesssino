@@ -7,7 +7,7 @@
 * 💻 Specializing in **Next.js**
 * 🛠️ Building cool shit with code.
 * 🔧 Open source enthusiast, believing in the power of collaboration.
-* 💙 **TypeScript**
+* 💙 **TypeScript** & **C**
 * 📚 Currently exploring Rust 
 <!--
 **Aleesssino/Aleesssino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
