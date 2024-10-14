@@ -4,7 +4,7 @@
 
 
 * 🌍 I'm based in **Brno**
-* 💻 Specializing in **Next.js**
+* ⬛🚀 Specializing in **Next.js**
 * 🛠️ Building cool shit with code.
 * 🤝 Open source enthusiast, believing in the power of collaboration.
 * 💙 **TypeScript** & **C**
