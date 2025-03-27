@@ -220,7 +220,7 @@ Here are some ideas to get you started:
   </a>
   
   <a href="https://github.com/Aleesssino">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleesssino&layout=compact&theme=rose_pine&hide_border=true" />
+    <img height=200 align="center" style="margin-top: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleesssino&layout=compact&theme=rose_pine&hide_border=true" />
   </a>
 </div>
 
