@@ -214,7 +214,7 @@ Here are some ideas to get you started:
   
   <br/>
 
-<div align="center" style="gap: 20px">
+<div align="center" style="justify-content: center; gap: 20px">
   <a href="https://github.com/Aleesssino">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Aleesssino&show_icons=true&theme=rose_pine&hide_rank=true" />
   </a>
