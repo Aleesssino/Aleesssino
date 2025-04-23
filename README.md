@@ -1,7 +1,11 @@
+### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+<!--
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=24&pause=6200&color=DADADA&center=true&random=false&width=440&height=45&separator=%3C&lines=console.log(%22hi%2C...%22);%3CI'm+Aleš" alt="Typing SVG" /></a>
 </p>
 
+-->
 
 * 🌍 I'm based in **Brno**
 * ⬛ Specializing in **Next.js** 🚀
@@ -9,20 +13,7 @@
 * 🤝 Open source enthusiast, believing in the power of collaboration.
 * 💙 **TypeScript** & **C**
 * 📚 Currently exploring Rust 🦀
-<!--
-**Aleesssino/Aleesssino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ---
 ### 🔨 Languages and Tools
 
