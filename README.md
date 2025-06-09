@@ -162,6 +162,8 @@
 
 <details>
     <summary><b>📈 My GitHub Stats</b></summary>
+  <br/>
+
   <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=19&duration=2000&pause=1000&color=DADADA&center=true&random=false&width=440&height=45&lines=Full-stack+development;Modern+design;Power+of+Next.js+%E2%9A%A1%EF%B8%8F;Typescript+;C%2C+Lua+%26+Rust" alt="Typing SVG" /></a>
     </a>
@@ -172,11 +174,12 @@
   <a href="https://github.com/Aleesssino">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Aleesssino&show_icons=true&theme=dark&hide_rank=true" />
   </a>
+</div>
 <!--   
   <a href="https://github.com/Aleesssino">
     <img height=200 align="center" style="margin-top: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleesssino&layout=compact&theme=rose_pine&hide_border=true" />
   </a>
-</div>
+
 -->
  
   <br/>
