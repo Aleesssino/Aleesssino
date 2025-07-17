@@ -1,5 +1,7 @@
 <div style="text-align: center;">
-  <h3 align="center">Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"></h3>
+  
+  <h3 align="center">      
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=19&duration=3000&pause=1800&color=DADADA&center=true&random=false&width=440&height=45&lines=Vim+is+intuitive;for+people+who've+already+learned+Vim." alt="Typing SVG" /></a></h3>   
 </div>
 
 <!--
@@ -152,38 +154,14 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg"
     />
   </a>
-</p>
+</p>      
 
 
 
 
-<br/>
-<br/>
 
-<details>
-    <summary><b>📈 My GitHub Stats</b></summary>
-  <br/>
 
-  <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=19&duration=2000&pause=1000&color=DADADA&center=true&random=false&width=440&height=45&lines=Full-stack+development;Modern+design;Power+of+Next.js+%E2%9A%A1%EF%B8%8F;Typescript+;C%2C+Lua+%26+Rust" alt="Typing SVG" /></a>
-    </a>
-  
-  <br/>
 
-<div align="center" style="justify-content: center; gap: 20px">
-  <a href="https://github.com/Aleesssino">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Aleesssino&show_icons=true&theme=dark&hide_rank=true" />
-  </a>
-</div>
-<!--   
-  <a href="https://github.com/Aleesssino">
-    <img height=200 align="center" style="margin-top: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleesssino&layout=compact&theme=rose_pine&hide_border=true" />
-  </a>
-
--->
- 
-  <br/>
-</details>
 
    
 
