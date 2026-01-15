@@ -12,12 +12,10 @@
 
 -->
 
-* 🌍 I'm based in **Brno**
-* ⬛ Specializing in **Next.js** 🚀
-* 🛠️ Building cool shit with code.
-* 🤝 Open source enthusiast, believing in the power of collaboration.
-* 💙 **TypeScript** & **C**
-* 📚 Currently exploring Rust 🦀
+* I'm based in **Brno**
+* Specializing in **Typescript** 
+* Building cool shit with code.
+* Currently exploring Flutter and Rust
 
 ---
 ### 🔨 Languages and Tools
@@ -122,16 +120,6 @@
       width="40px"
       style="padding: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"
-    />
-  </a>
-
-  <a href="https://www.rust-lang.org/">
-    <img
-      align="center"
-      alt="Rust"
-      width="40px"
-      style="padding: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
     />
   </a>
 
