@@ -4,16 +4,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=19&duration=3000&pause=1800&color=DADADA&center=true&random=false&width=440&height=45&lines=Vim+is+quite+intuitive;for+people+who've+already+learned+Vim." alt="Typing SVG" /></a></h3>   
 </div>
 
-<!--
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=24&pause=6200&color=DADADA&center=true&random=false&width=440&height=45&separator=%3C&lines=console.log(%22hi%2C...%22);%3CI'm+Aleš" alt="Typing SVG" /></a>
-</p>
-
--->
-
 * I'm based in **Brno**
-* Specializing in **Typescript** 
+* Specializing in **TypeScript** 
 * Building cool shit with code.
 * Currently exploring Flutter and Rust
 
